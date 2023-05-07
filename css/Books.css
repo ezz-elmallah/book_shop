@@ -15,8 +15,8 @@
   background-color:aliceblue;
   margin-bottom: 0px;
   margin-top: 20px;
-  margin-right: 3%;
-  margin-left: 3%;
+  margin-right:0;
+  margin-left: 5%;
   margin-bottom: 50px;
   float: left;
   width: 50%;
@@ -66,7 +66,7 @@ text-align: center;
   margin-left: 40px;
   font-size: x-large;
   
-  font-family: fantasy
+  font-family:serif
   
   
 }
